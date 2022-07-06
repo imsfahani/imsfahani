@@ -14,4 +14,4 @@
 	
 	$output = $Client ->GetItemListWithinventoryID($parameters)->GetItemListWithinventoryIDResult->ResponseResult; 
 	print_r($output);
-	?> 
+	?>   .
